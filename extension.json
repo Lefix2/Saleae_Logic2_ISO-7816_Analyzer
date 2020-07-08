@@ -7,7 +7,7 @@
   "extensions": {
     "ISO-7816": {
       "type": "HighLevelAnalyzer",
-      "entryPoint": "HighLevelAnalyzer.Hla"
+      "entryPoint": "ISO7816.Hla"
     }
   }
 }
