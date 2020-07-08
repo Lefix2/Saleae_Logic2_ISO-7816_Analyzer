@@ -1,0 +1,13 @@
+{
+  "name": "ISO-7816",
+  "apiVersion": "1.0.0",
+  "author": "Felix TREFOU",
+  "version": "0.0.1",
+  "description": "ATR, PPS, characters, APDU and TPDU analyser for ISO-7816 smartcards",
+  "extensions": {
+    "ISO-7816": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
